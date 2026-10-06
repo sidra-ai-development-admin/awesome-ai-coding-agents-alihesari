@@ -32,6 +32,7 @@ Every entry links to the official site or the canonical repository. This space m
 - [OpenCode](https://opencode.ai) - Open source terminal agent with a client-server design and a shareable session model.
 - [Pi](https://github.com/earendil-works/pi) - Agent toolkit with a unified model API, an agent loop, a TUI and a coding agent CLI.
 - [Qwen Code](https://github.com/QwenLM/qwen-code) - Command-line agent adapted for the Qwen3-Coder models.
+- [SCODE](https://github.com/sidra-ai-development/scode) - Open-source terminal coding runtime with persistent sessions, file and shell tools, MCP support, and cloud or local models.
 - [Warp](https://www.warp.dev/code) - Terminal and code editor with agentic workflows across several models.
 
 ## IDE and Editor Agents
